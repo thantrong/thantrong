@@ -1,0 +1,53 @@
+<div align="center">
+
+# Than Vinh Trong
+
+### AI/ML · Generative AI · Data
+
+Building practical projects in retrieval-augmented generation, data pipelines, and computer vision.
+
+[Projects](#selected-projects) · [Dự án](#du-an-tieu-bieu) · [Contact](#contact)
+
+</div>
+
+---
+
+## About
+
+I am an AI/ML-focused developer exploring how machine learning and data systems can solve practical problems. My public work includes a retrieval-augmented chat project, data engineering projects, and computer-vision learning labs.
+
+## Selected projects
+
+- **[RAG_CHAT_HUFLIT](https://github.com/thantrong/RAG_CHAT_HUFLIT)** — A retrieval-augmented chat project. The repository uses LangChain, PostgreSQL, FastAPI, and Streamlit.
+- **[BigData_Weather](https://github.com/thantrong/BigData_Weather)** — A weather data project using Python data tools and a FastAPI service.
+- **[Day8-AI-Assisted-Annotation-Student](https://github.com/thantrong/Day8-AI-Assisted-Annotation-Student)** — A lab project on reviewing pre-labels and active-learning ranking, with an Ultralytics notebook workflow.
+- **[Day5-Segmentation-Lab-Student](https://github.com/thantrong/Day5-Segmentation-Lab-Student)** — A computer-vision segmentation lab covering semantic, instance, and panoptic annotation.
+
+## Technologies used in my projects
+
+`Python` · `LangChain` · `PostgreSQL` · `FastAPI` · `Streamlit` · `Pandas` · `NumPy` · `Ultralytics`
+
+## Contact
+
+- GitHub: [@thantrong](https://github.com/thantrong)
+
+---
+
+## Giới thiệu
+
+Tôi tập trung vào AI/ML và tìm hiểu cách ứng dụng học máy cùng các hệ thống dữ liệu để giải quyết vấn đề thực tế. Các dự án công khai của tôi gồm chatbot truy xuất tăng cường, dự án xử lý dữ liệu và các bài thực hành thị giác máy tính.
+
+## Dự án tiêu biểu
+
+- **[RAG_CHAT_HUFLIT](https://github.com/thantrong/RAG_CHAT_HUFLIT)** — Dự án chatbot dùng retrieval-augmented generation (RAG). Repo sử dụng LangChain, PostgreSQL, FastAPI và Streamlit.
+- **[BigData_Weather](https://github.com/thantrong/BigData_Weather)** — Dự án dữ liệu thời tiết sử dụng các công cụ xử lý dữ liệu Python và dịch vụ FastAPI.
+- **[Day8-AI-Assisted-Annotation-Student](https://github.com/thantrong/Day8-AI-Assisted-Annotation-Student)** — Bài thực hành về thẩm định pre-label và xếp hạng active learning, có quy trình notebook dùng Ultralytics.
+- **[Day5-Segmentation-Lab-Student](https://github.com/thantrong/Day5-Segmentation-Lab-Student)** — Bài thực hành phân đoạn ảnh, gồm semantic, instance và panoptic segmentation.
+
+## Công nghệ đã dùng trong dự án
+
+`Python` · `LangChain` · `PostgreSQL` · `FastAPI` · `Streamlit` · `Pandas` · `NumPy` · `Ultralytics`
+
+## Liên hệ
+
+- GitHub: [@thantrong](https://github.com/thantrong)
